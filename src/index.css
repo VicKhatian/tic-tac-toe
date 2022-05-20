@@ -17,10 +17,15 @@ body {
   padding: 2rem;
 }
 
-h1 {
+/* h1 {
   margin: 2rem;
 }
 
+table td {
+  border: 1px solid gray;
+  width: 100px;
+  height: 100px;
+}
 .board {
   border: 1rem solid #ff652f;
   background: #ff652f;
@@ -68,4 +73,4 @@ li {
   cursor: pointer;
   padding: 0.5rem;
   margin: 0.5rem 1rem;
-}
+} */

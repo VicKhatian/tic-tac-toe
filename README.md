@@ -9,3 +9,10 @@ Structure tree:
     - tr
       - cell
         - td
+
+Components:
+
+- Game
+- Game.css
+-
+- Cell
