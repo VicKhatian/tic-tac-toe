@@ -7,11 +7,11 @@
 }
 
 body {
-  background-color: black;
-  color: white;
+  background-color: rgb(202, 202, 200);
+  color: rgb(71, 71, 70);
   font-family: "Roboto", sans-serif;
   display: flex;
-  /* align-items: center; */
+
   justify-content: center;
   min-height: 100vh;
   padding: 2rem;
@@ -35,7 +35,7 @@ h1 {
   background: #272727;
   border: none;
   font-size: 5rem;
-  /* font-weight: 800; */
+
   cursor: pointer;
   outline: none;
 }
